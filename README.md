@@ -2,6 +2,6 @@
 ## Simple Stock Prediction
 
 Dependencies :
-    * TFANN
-    * TensorFlow
-    * Scipy and Numpy
+* TFANN
+* TensorFlow
+* Scipy and Numpy
